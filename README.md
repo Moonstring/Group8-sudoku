@@ -1,6 +1,8 @@
 # Group8-sudoku
 IT5005
 
+**Live app:** [Group8 Sudoku Solver](https://group8-sudoku-2vztnnyx5chlwvimukec3c.streamlit.app/)
+
 ## Sudoku Solver
 
 A Streamlit app for selecting and solving five Sudoku puzzles with forward or backward chaining, checking individual cell values, and reading step-by-step explanations.
